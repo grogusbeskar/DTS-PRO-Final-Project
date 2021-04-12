@@ -1,1 +1,1 @@
-# DTS-PRO-Final-Project
+# MNIST Dataset
